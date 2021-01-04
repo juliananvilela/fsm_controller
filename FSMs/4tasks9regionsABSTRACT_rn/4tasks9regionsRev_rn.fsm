@@ -1,0 +1,62 @@
+16
+
+1	0	4
+a01s	2	c	o
+a03s	3	c	o
+b01s	4	c	o
+b03s	5	c	o
+
+2	0	3
+a03s	7	c	o
+b03s	8	c	o
+a02s	6	c	o
+
+3	0	3
+a01s	7	c	o
+b01s	14	c	o
+a04s	13	c	o
+
+4	0	1
+a03s	14	c	o
+
+5	0	2
+a01s	8	c	o
+b04s	15	c	o
+
+6	0	2
+a03s	16	c	o
+b03s	9	c	o
+
+7	0	2
+a02s	16	c	o
+a04s	10	c	o
+
+8	0	2
+a02s	9	c	o
+b04s	10	c	o
+
+9	0	1
+b04s	12	c	o
+
+10	0	1
+a02s	12	c	o
+
+11	0	1
+b02s	12	c	o
+
+12	1	0
+
+13	0	2
+a01s	10	c	o
+b01s	11	c	o
+
+14	0	2
+b02s	16	c	o
+a04s	11	c	o
+
+15	0	1
+a01s	10	c	o
+
+16	0	1
+a04s	12	c	o
+

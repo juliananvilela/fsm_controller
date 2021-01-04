@@ -1,0 +1,68 @@
+21
+
+1	0	2
+a3s	2	c	o
+a1s	3	c	o
+
+2	0	1
+a3f	19	uc	o
+
+3	0	1
+a1f	4	uc	o
+
+4	0	2
+a3s	11	c	o
+a2s	12	c	o
+
+5	0	1
+a4f	6	uc	o
+
+6	0	1
+a2s	15	c	o
+
+7	0	1
+a4f	8	uc	o
+
+8	1	0
+
+9	0	1
+a4f	10	uc	o
+
+10	0	1
+a1s	21	c	o
+
+11	0	1
+a3f	13	uc	o
+
+12	0	1
+a2f	16	uc	o
+
+13	0	2
+a2s	14	c	o
+a4s	5	c	o
+
+14	0	1
+a2f	18	uc	o
+
+15	0	1
+a2f	8	uc	o
+
+16	0	1
+a3s	17	c	o
+
+17	0	1
+a3f	18	uc	o
+
+18	0	1
+a4s	7	c	o
+
+19	0	2
+a1s	20	c	o
+a4s	9	c	o
+
+20	0	1
+a1f	13	uc	o
+
+21	0	1
+a1f	6	uc	o
+

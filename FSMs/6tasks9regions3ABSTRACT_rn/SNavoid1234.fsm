@@ -1,0 +1,218 @@
+45
+
+1	0	4
+a01s	2	c	o
+b03s	3	c	o
+c05s	4	c	o
+c06s	5	c	o
+
+2	0	4
+b03s	9	c	o
+c05s	39	c	o
+c06s	40	c	o
+a02s	38	c	o
+
+3	0	4
+a01s	9	c	o
+c05s	45	c	o
+c06s	44	c	o
+b03f	10	uc	o
+
+4	0	3
+a01s	39	c	o
+b03s	45	c	o
+c05f	1	uc	o
+
+5	0	3
+a01s	40	c	o
+b03s	44	c	o
+c06f	1	uc	o
+
+6	0	3
+a02s	7	c	o
+b03f	8	uc	o
+c06f	9	uc	o
+
+7	0	2
+b03f	22	uc	o
+c06f	29	uc	o
+
+8	0	3
+a02s	22	c	o
+c06f	11	uc	o
+b04s	19	c	o
+
+9	0	4
+c05s	43	c	o
+c06s	6	c	o
+a02s	29	c	o
+b03f	11	uc	o
+
+10	0	4
+a01s	11	c	o
+c05s	13	c	o
+c06s	14	c	o
+b04s	12	c	o
+
+11	0	4
+c05s	21	c	o
+c06s	8	c	o
+a02s	20	c	o
+b04s	15	c	o
+
+12	0	4
+a01s	15	c	o
+c05s	35	c	o
+c06s	33	c	o
+b04f	34	uc	o
+
+13	0	3
+a01s	21	c	o
+b04s	35	c	o
+c05f	10	uc	o
+
+14	0	3
+a01s	8	c	o
+c06f	10	uc	o
+b04s	33	c	o
+
+15	0	4
+c05s	18	c	o
+c06s	19	c	o
+a02s	16	c	o
+b04f	17	uc	o
+
+16	0	3
+c05s	25	c	o
+c06s	23	c	o
+b04f	31	uc	o
+
+17	0	3
+c05s	26	c	o
+c06s	27	c	o
+a02s	31	c	o
+
+18	0	3
+a02s	25	c	o
+b04f	26	uc	o
+c05f	15	uc	o
+
+19	0	3
+a02s	23	c	o
+c06f	15	uc	o
+b04f	27	uc	o
+
+20	0	3
+c05s	28	c	o
+c06s	22	c	o
+b04s	16	c	o
+
+21	0	3
+a02s	28	c	o
+b04s	18	c	o
+c05f	11	uc	o
+
+22	0	2
+c06f	20	uc	o
+b04s	23	c	o
+
+23	0	2
+c06f	16	uc	o
+b04f	24	uc	o
+
+24	1	1
+c06f	31	uc	o
+
+25	0	2
+b04f	32	uc	o
+c05f	16	uc	o
+
+26	0	2
+a02s	32	c	o
+c05f	17	uc	o
+
+27	0	2
+a02s	24	c	o
+c06f	17	uc	o
+
+28	0	2
+b04s	25	c	o
+c05f	20	uc	o
+
+29	0	3
+c05s	30	c	o
+c06s	7	c	o
+b03f	20	uc	o
+
+30	0	2
+b03f	28	uc	o
+c05f	29	uc	o
+
+31	1	2
+c05s	32	c	o
+c06s	24	c	o
+
+32	1	1
+c05f	31	uc	o
+
+33	0	3
+a01s	19	c	o
+c06f	12	uc	o
+b04f	37	uc	o
+
+34	0	3
+a01s	17	c	o
+c05s	36	c	o
+c06s	37	c	o
+
+35	0	3
+a01s	18	c	o
+b04f	36	uc	o
+c05f	12	uc	o
+
+36	0	2
+a01s	26	c	o
+c05f	34	uc	o
+
+37	0	2
+a01s	27	c	o
+c06f	34	uc	o
+
+38	0	3
+b03s	29	c	o
+c05s	42	c	o
+c06s	41	c	o
+
+39	0	3
+b03s	43	c	o
+a02s	42	c	o
+c05f	2	uc	o
+
+40	0	3
+b03s	6	c	o
+a02s	41	c	o
+c06f	2	uc	o
+
+41	0	2
+b03s	7	c	o
+c06f	38	uc	o
+
+42	0	2
+b03s	30	c	o
+c05f	38	uc	o
+
+43	0	3
+a02s	30	c	o
+b03f	21	uc	o
+c05f	9	uc	o
+
+44	0	3
+a01s	6	c	o
+b03f	14	uc	o
+c06f	3	uc	o
+
+45	0	3
+a01s	43	c	o
+b03f	13	uc	o
+c05f	3	uc	o
+

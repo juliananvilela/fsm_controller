@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package>
+  <name>fsm_controller</name>
+  <version>1.0.0</version>
+  <description>This package provides Stage IGVC world with camera support</description>
+
+  <maintainer email="TODO@TODO.com">TODO</maintainer>
+
+  <license>TODO</license>
+
+  <url type="website">TODO</url>
+  <url type="repository">TODO</url>
+  <url type="bugtracker">TODO</url>
+
+  <author email="TODO@TODO.com">TODO</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <run_depend>stage_ros</run_depend>
+
+</package>

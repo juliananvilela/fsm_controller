@@ -1,0 +1,214 @@
+40
+
+q0	0	5
+a03s	q27	c	o
+b05s	q18	c	o
+c01s	q21	c	o
+c02s	q17	c	o
+c06s	q23	c	o
+
+q1	0	5
+a04s	q5	c	o
+b05s	q11	c	o
+c01s	q14	c	o
+c02s	q2	c	o
+c06s	q16	c	o
+
+q10	0	3
+a04f	q39	uc	o
+b05s	q8	c	o
+c06f	q5	uc	o
+
+q11	0	5
+a04s	q3	c	o
+b05f	q1	uc	o
+c01s	q12	c	o
+c02s	q13	c	o
+c06s	q15	c	o
+
+q12	0	3
+a04s	q4	c	o
+b05f	q14	uc	o
+c01f	q11	uc	o
+
+q13	0	3
+a04s	q6	c	o
+b05f	q2	uc	o
+c02f	q11	uc	o
+
+q14	0	3
+a04s	q7	c	o
+b05s	q12	c	o
+c01f	q1	uc	o
+
+q15	0	3
+a04s	q8	c	o
+b05f	q16	uc	o
+c06f	q11	uc	o
+
+q16	0	3
+a04s	q10	c	o
+b05s	q15	c	o
+c06f	q1	uc	o
+
+q17	0	3
+a03s	q31	c	o
+b05s	q20	c	o
+c02f	q0	uc	o
+
+q18	0	5
+a03s	q25	c	o
+b05f	q0	uc	o
+c01s	q19	c	o
+c02s	q20	c	o
+c06s	q22	c	o
+
+q19	0	3
+a03s	q26	c	o
+b05f	q21	uc	o
+c01f	q18	uc	o
+
+q2	0	3
+a04s	q9	c	o
+b05s	q13	c	o
+c02f	q1	uc	o
+
+q20	0	3
+a03s	q28	c	o
+b05f	q17	uc	o
+c02f	q18	uc	o
+
+q21	0	3
+a03s	q29	c	o
+b05s	q19	c	o
+c01f	q0	uc	o
+
+q22	0	3
+a03s	q30	c	o
+b05f	q23	uc	o
+c06f	q18	uc	o
+
+q23	0	3
+a03s	q24	c	o
+b05s	q22	c	o
+c06f	q0	uc	o
+
+q24	0	3
+a03f	q16	uc	o
+b05s	q30	c	o
+c06f	q27	uc	o
+
+q25	0	5
+a03f	q11	uc	o
+b05f	q27	uc	o
+c01s	q26	c	o
+c02s	q28	c	o
+c06s	q30	c	o
+
+q26	0	3
+a03f	q12	uc	o
+b05f	q29	uc	o
+c01f	q25	uc	o
+
+q27	0	5
+a03f	q1	uc	o
+b05s	q25	c	o
+c01s	q29	c	o
+c02s	q31	c	o
+c06s	q24	c	o
+
+q28	0	3
+a03f	q13	uc	o
+b05f	q31	uc	o
+c02f	q25	uc	o
+
+q29	0	3
+a03f	q14	uc	o
+b05s	q26	c	o
+c01f	q27	uc	o
+
+q3	0	5
+a04f	q34	uc	o
+b05f	q5	uc	o
+c01s	q4	c	o
+c02s	q6	c	o
+c06s	q8	c	o
+
+q30	0	3
+a03f	q15	uc	o
+b05f	q24	uc	o
+c06f	q25	uc	o
+
+q31	0	3
+a03f	q2	uc	o
+b05s	q28	c	o
+c02f	q27	uc	o
+
+q32	1	4
+b05s	q34	c	o
+c01s	q37	c	o
+c02s	q33	c	o
+c06s	q39	c	o
+
+q33	1	2
+b05s	q36	c	o
+c02f	q32	uc	o
+
+q34	1	4
+b05f	q32	uc	o
+c01s	q35	c	o
+c02s	q36	c	o
+c06s	q38	c	o
+
+q35	1	2
+b05f	q37	uc	o
+c01f	q34	uc	o
+
+q36	1	2
+b05f	q33	uc	o
+c02f	q34	uc	o
+
+q37	1	2
+b05s	q35	c	o
+c01f	q32	uc	o
+
+q38	1	2
+b05f	q39	uc	o
+c06f	q34	uc	o
+
+q39	1	2
+b05s	q38	c	o
+c06f	q32	uc	o
+
+q4	0	3
+a04f	q35	uc	o
+b05f	q7	uc	o
+c01f	q3	uc	o
+
+q5	0	5
+a04f	q32	uc	o
+b05s	q3	c	o
+c01s	q7	c	o
+c02s	q9	c	o
+c06s	q10	c	o
+
+q6	0	3
+a04f	q36	uc	o
+b05f	q9	uc	o
+c02f	q3	uc	o
+
+q7	0	3
+a04f	q37	uc	o
+b05s	q4	c	o
+c01f	q5	uc	o
+
+q8	0	3
+a04f	q38	uc	o
+b05f	q10	uc	o
+c06f	q3	uc	o
+
+q9	0	3
+a04f	q33	uc	o
+b05s	q6	c	o
+c02f	q5	uc	o
+

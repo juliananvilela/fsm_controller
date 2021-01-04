@@ -1,0 +1,322 @@
+64
+
+1	0	6
+a1s	2	c	o
+a3s	3	c	o
+a5s	4	c	o
+b1s	5	c	o
+b3s	6	c	o
+b5s	7	c	o
+
+2	0	5
+a3s	63	c	o
+a5s	40	c	o
+b3s	8	c	o
+b5s	62	c	o
+a2s	47	c	o
+
+3	0	5
+a1s	63	c	o
+a5s	13	c	o
+b1s	59	c	o
+b5s	21	c	o
+a4s	33	c	o
+
+4	0	5
+a1s	40	c	o
+a3s	13	c	o
+b1s	42	c	o
+b3s	31	c	o
+a6s	41	c	o
+
+5	0	5
+a3s	59	c	o
+a5s	42	c	o
+b3s	32	c	o
+b5s	60	c	o
+b2s	47	c	o
+
+6	0	5
+a1s	8	c	o
+a5s	31	c	o
+b1s	32	c	o
+b5s	34	c	o
+b4s	33	c	o
+
+7	0	5
+a1s	62	c	o
+a3s	21	c	o
+b1s	60	c	o
+b3s	34	c	o
+b6s	41	c	o
+
+8	0	4
+a5s	10	c	o
+b5s	12	c	o
+a2s	9	c	o
+b4s	11	c	o
+
+9	0	3
+a5s	53	c	o
+b5s	55	c	o
+b4s	58	c	o
+
+10	0	3
+a2s	53	c	o
+b4s	18	c	o
+a6s	38	c	o
+
+11	0	3
+a5s	18	c	o
+b5s	25	c	o
+a2s	58	c	o
+
+12	0	3
+a2s	55	c	o
+b4s	25	c	o
+b6s	38	c	o
+
+13	0	4
+a1s	14	c	o
+b1s	17	c	o
+a4s	15	c	o
+a6s	16	c	o
+
+14	0	3
+a2s	51	c	o
+a4s	18	c	o
+a6s	27	c	o
+
+15	0	3
+a1s	18	c	o
+b1s	44	c	o
+a6s	28	c	o
+
+16	0	3
+a1s	27	c	o
+b1s	29	c	o
+a4s	28	c	o
+
+17	0	3
+a4s	44	c	o
+a6s	29	c	o
+b2s	51	c	o
+
+18	0	2
+a2s	19	c	o
+a6s	20	c	o
+
+19	0	1
+a6s	30	c	o
+
+20	0	1
+a2s	30	c	o
+
+21	0	4
+a1s	22	c	o
+b1s	24	c	o
+a4s	23	c	o
+b6s	16	c	o
+
+22	0	3
+a2s	54	c	o
+a4s	25	c	o
+b6s	27	c	o
+
+23	0	3
+a1s	25	c	o
+b1s	45	c	o
+b6s	28	c	o
+
+24	0	3
+a4s	45	c	o
+b6s	29	c	o
+b2s	54	c	o
+
+25	0	2
+a2s	26	c	o
+b6s	20	c	o
+
+26	0	1
+b6s	30	c	o
+
+27	0	2
+a2s	56	c	o
+a4s	20	c	o
+
+28	0	2
+a1s	20	c	o
+b1s	46	c	o
+
+29	0	2
+a4s	46	c	o
+b2s	56	c	o
+
+30	1	0
+
+31	0	4
+a1s	10	c	o
+b1s	36	c	o
+b4s	15	c	o
+a6s	35	c	o
+
+32	0	4
+a5s	36	c	o
+b5s	37	c	o
+b4s	43	c	o
+b2s	9	c	o
+
+33	0	4
+a1s	11	c	o
+a5s	15	c	o
+b1s	43	c	o
+b5s	23	c	o
+
+34	0	4
+a1s	12	c	o
+b1s	37	c	o
+b4s	23	c	o
+b6s	35	c	o
+
+35	0	3
+a1s	38	c	o
+b1s	39	c	o
+b4s	28	c	o
+
+36	0	3
+b4s	44	c	o
+a6s	39	c	o
+b2s	53	c	o
+
+37	0	3
+b4s	45	c	o
+b6s	39	c	o
+b2s	55	c	o
+
+38	0	2
+a2s	57	c	o
+b4s	20	c	o
+
+39	0	2
+b4s	46	c	o
+b2s	57	c	o
+
+40	0	4
+a3s	14	c	o
+b3s	10	c	o
+a2s	49	c	o
+a6s	64	c	o
+
+41	0	4
+a1s	64	c	o
+a3s	16	c	o
+b1s	61	c	o
+b3s	35	c	o
+
+42	0	4
+a3s	17	c	o
+b3s	36	c	o
+a6s	61	c	o
+b2s	49	c	o
+
+43	0	3
+a5s	44	c	o
+b5s	45	c	o
+b2s	58	c	o
+
+44	0	2
+a6s	46	c	o
+b2s	19	c	o
+
+45	0	2
+b6s	46	c	o
+b2s	26	c	o
+
+46	0	1
+b2s	30	c	o
+
+47	0	4
+a3s	48	c	o
+a5s	49	c	o
+b3s	9	c	o
+b5s	50	c	o
+
+48	0	3
+a5s	51	c	o
+b5s	54	c	o
+a4s	58	c	o
+
+49	0	3
+a3s	51	c	o
+b3s	53	c	o
+a6s	52	c	o
+
+50	0	3
+a3s	54	c	o
+b3s	55	c	o
+b6s	52	c	o
+
+51	0	2
+a4s	19	c	o
+a6s	56	c	o
+
+52	0	2
+a3s	56	c	o
+b3s	57	c	o
+
+53	0	2
+b4s	19	c	o
+a6s	57	c	o
+
+54	0	2
+a4s	26	c	o
+b6s	56	c	o
+
+55	0	2
+b4s	26	c	o
+b6s	57	c	o
+
+56	0	1
+a4s	30	c	o
+
+57	0	1
+b4s	30	c	o
+
+58	0	2
+a5s	19	c	o
+b5s	26	c	o
+
+59	0	4
+a5s	17	c	o
+b5s	24	c	o
+a4s	43	c	o
+b2s	48	c	o
+
+60	0	4
+a3s	24	c	o
+b3s	37	c	o
+b6s	61	c	o
+b2s	50	c	o
+
+61	0	3
+a3s	29	c	o
+b3s	39	c	o
+b2s	52	c	o
+
+62	0	4
+a3s	22	c	o
+b3s	12	c	o
+a2s	50	c	o
+b6s	64	c	o
+
+63	0	4
+a5s	14	c	o
+b5s	22	c	o
+a2s	48	c	o
+a4s	11	c	o
+
+64	0	3
+a3s	27	c	o
+b3s	38	c	o
+a2s	52	c	o
+

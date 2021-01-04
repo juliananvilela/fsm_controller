@@ -1,0 +1,270 @@
+48
+
+1	0	5
+a03s	2	c	o
+a04s	3	c	o
+b05s	4	c	o
+c01s	5	c	o
+c06s	6	c	o
+
+2	0	4
+b05s	37	c	o
+c01s	40	c	o
+c06s	32	c	o
+a03f	1	uc	o
+
+3	0	4
+b05s	27	c	o
+c01s	34	c	o
+c06s	35	c	o
+a04f	1	uc	o
+
+4	0	5
+a03s	37	c	o
+a04s	27	c	o
+c01s	38	c	o
+c06s	36	c	o
+b05f	1	uc	o
+
+5	0	4
+a03s	40	c	o
+a04s	34	c	o
+b05s	38	c	o
+c01f	7	uc	o
+
+6	0	4
+a03s	32	c	o
+a04s	35	c	o
+b05s	36	c	o
+c06f	1	uc	o
+
+7	0	5
+a03s	8	c	o
+a04s	9	c	o
+b05s	10	c	o
+c06s	12	c	o
+c02s	11	c	o
+
+8	0	4
+b05s	13	c	o
+c06s	22	c	o
+c02s	24	c	o
+a03f	7	uc	o
+
+9	0	4
+b05s	14	c	o
+c06s	23	c	o
+c02s	30	c	o
+a04f	7	uc	o
+
+10	0	5
+a03s	13	c	o
+a04s	14	c	o
+c06s	16	c	o
+c02s	15	c	o
+b05f	7	uc	o
+
+11	0	4
+a03s	24	c	o
+a04s	30	c	o
+b05s	15	c	o
+c02f	31	uc	o
+
+12	0	4
+a03s	22	c	o
+a04s	23	c	o
+b05s	16	c	o
+c06f	7	uc	o
+
+13	0	4
+c06s	18	c	o
+c02s	17	c	o
+b05f	8	uc	o
+a03f	10	uc	o
+
+14	0	4
+c06s	21	c	o
+c02s	19	c	o
+b05f	9	uc	o
+a04f	10	uc	o
+
+15	0	4
+a03s	17	c	o
+a04s	19	c	o
+b05f	11	uc	o
+c02f	20	uc	o
+
+16	0	4
+a03s	18	c	o
+a04s	21	c	o
+b05f	12	uc	o
+c06f	10	uc	o
+
+17	0	3
+b05f	24	uc	o
+a03f	15	uc	o
+c02f	25	uc	o
+
+18	0	3
+b05f	22	uc	o
+a03f	16	uc	o
+c06f	13	uc	o
+
+19	0	3
+b05f	30	uc	o
+c02f	43	uc	o
+a04f	15	uc	o
+
+20	1	4
+a03s	25	c	o
+a04s	43	c	o
+c06s	48	c	o
+b05f	31	uc	o
+
+21	0	3
+b05f	23	uc	o
+c06f	14	uc	o
+a04f	16	uc	o
+
+22	0	3
+b05s	18	c	o
+a03f	12	uc	o
+c06f	8	uc	o
+
+23	0	3
+b05s	21	c	o
+c06f	9	uc	o
+a04f	12	uc	o
+
+24	0	3
+b05s	17	c	o
+a03f	11	uc	o
+c02f	26	uc	o
+
+25	1	3
+c06s	46	c	o
+b05f	26	uc	o
+a03f	20	uc	o
+
+26	1	3
+b05s	25	c	o
+c06s	45	c	o
+a03f	31	uc	o
+
+27	0	4
+c01s	28	c	o
+c06s	29	c	o
+b05f	3	uc	o
+a04f	4	uc	o
+
+28	0	3
+b05f	34	uc	o
+a04f	38	uc	o
+c01f	14	uc	o
+
+29	0	3
+b05f	35	uc	o
+c06f	27	uc	o
+a04f	36	uc	o
+
+30	0	3
+b05s	19	c	o
+c02f	41	uc	o
+a04f	11	uc	o
+
+31	1	4
+a03s	26	c	o
+a04s	41	c	o
+b05s	20	c	o
+c06s	42	c	o
+
+32	0	3
+b05s	33	c	o
+a03f	6	uc	o
+c06f	2	uc	o
+
+33	0	3
+b05f	32	uc	o
+a03f	36	uc	o
+c06f	37	uc	o
+
+34	0	3
+b05s	28	c	o
+a04f	5	uc	o
+c01f	9	uc	o
+
+35	0	3
+b05s	29	c	o
+c06f	3	uc	o
+a04f	6	uc	o
+
+36	0	4
+a03s	33	c	o
+a04s	29	c	o
+b05f	6	uc	o
+c06f	4	uc	o
+
+37	0	4
+c01s	39	c	o
+c06s	33	c	o
+b05f	2	uc	o
+a03f	4	uc	o
+
+38	0	4
+a03s	39	c	o
+a04s	28	c	o
+b05f	5	uc	o
+c01f	10	uc	o
+
+39	0	3
+b05f	40	uc	o
+a03f	38	uc	o
+c01f	13	uc	o
+
+40	0	3
+b05s	39	c	o
+a03f	5	uc	o
+c01f	8	uc	o
+
+41	1	3
+b05s	43	c	o
+c06s	47	c	o
+a04f	31	uc	o
+
+42	1	4
+a03s	45	c	o
+a04s	47	c	o
+b05s	48	c	o
+c06f	31	uc	o
+
+43	1	3
+c06s	44	c	o
+b05f	41	uc	o
+a04f	20	uc	o
+
+44	1	3
+b05f	47	uc	o
+c06f	43	uc	o
+a04f	48	uc	o
+
+45	1	3
+b05s	46	c	o
+a03f	42	uc	o
+c06f	26	uc	o
+
+46	1	3
+b05f	45	uc	o
+a03f	48	uc	o
+c06f	25	uc	o
+
+47	1	3
+b05s	44	c	o
+c06f	41	uc	o
+a04f	42	uc	o
+
+48	1	4
+a03s	46	c	o
+a04s	44	c	o
+b05f	42	uc	o
+c06f	20	uc	o
+

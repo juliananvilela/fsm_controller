@@ -1,0 +1,32 @@
+9
+
+1	0	2
+a1s	2	c	o
+a3s	3	c	o
+
+2	0	2
+a3s	5	c	o
+a2s	4	c	o
+
+3	0	2
+a1s	5	c	o
+a4s	9	c	o
+
+4	0	1
+a3s	6	c	o
+
+5	0	2
+a2s	6	c	o
+a4s	7	c	o
+
+6	0	1
+a4s	8	c	o
+
+7	0	1
+a2s	8	c	o
+
+8	1	0
+
+9	0	1
+a1s	7	c	o
+
